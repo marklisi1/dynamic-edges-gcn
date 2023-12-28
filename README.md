@@ -1,5 +1,5 @@
 # dynamic-edges-gcn
-This repository contains all code used in the research project "Variable Proximity-Based Graph Structure for Emission Modeling and Prediction" by Mark Lisi!
+This repository contains all code used in the research project "Variable Proximity-Based Graph Structure for Emission Modeling and Prediction" by Mark Lisi! For a detailed explanation of the data, models, and techniques used, check out the attached PDF in this repository.
 
 There are three notebooks for different tasks outlined in the paper:
 - `node-connections.ipynb` for aggregation of tabular data into graph structures/PyG `Data` objects
